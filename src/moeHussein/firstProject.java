@@ -1,3 +1,4 @@
+
 package moeHussein;
 
 public class firstProject {
@@ -7,5 +8,6 @@ public class firstProject {
         System.out.println("Oh lord");
 
         System.out.println("God Is Good");
+          System.out.println("God Is Good");
     }
 }
