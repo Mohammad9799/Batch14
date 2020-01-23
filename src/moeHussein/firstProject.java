@@ -5,5 +5,7 @@ public class firstProject {
         System.out.println("Hi World");
 
         System.out.println("Oh lord");
+
+        System.out.println("God Is Good");
     }
 }
